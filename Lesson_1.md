@@ -18,3 +18,7 @@ can do authentication as well). In the header of auth, the username and password
 Encoding is a mathematical function which transforms the string to an encoding which can be reversed given that one knows abt the 
 function. While in case of encryption, alongwith a function we also have a secret key which is necessary to revert back to original
 string (making it more secure).
+
+## Filter chart
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/06b9b0c3-55f1-4389-8f58-daec9b3129e6">
+
